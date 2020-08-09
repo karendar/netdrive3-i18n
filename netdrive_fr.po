@@ -10,142 +10,142 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
 msgid "Add Drive"
-msgstr ""
+msgstr "Ajouter lecteur"
 
 #: ../../NetDriveUI/adddrive.ui:55
 msgctxt "AddDrive|"
 msgid "STORAGE TYPE"
-msgstr ""
+msgstr "TYPE DE STOCKAGE"
 
 #: ../../NetDriveUI/adddrive.ui:124
 msgctxt "AddDrive|"
 msgid "CONNECT"
-msgstr ""
+msgstr "CONNECTER"
 
 #: ../../NetDriveUI/adddrive.ui:137
 msgctxt "AddDrive|"
 msgid "OPTIONS"
-msgstr ""
+msgstr "OPTIONS"
 
 #: ../../NetDriveUI/adddrive.ui:146
 msgctxt "AddDrive|"
 msgid "Save authentication information"
-msgstr ""
+msgstr "Sauvegarder information d'autentification"
 
 #: ../../NetDriveUI/adddrive.ui:185
 msgctxt "AddDrive|"
 msgid "REMOTE PATH"
-msgstr ""
+msgstr "CHEMIN À DISTANCE"
 
 #: ../../NetDriveUI/adddrive.ui:213
 msgctxt "AddDrive|"
 msgid "BROWSE"
-msgstr ""
+msgstr "FURETER"
 
 #: ../../NetDriveUI/adddrive.ui:240
 msgctxt "AddDrive|"
 msgid "LABEL"
-msgstr ""
+msgstr "ÉTIQUETTE"
 
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
 msgid "MOUNT"
-msgstr ""
+msgstr "MONTER"
 
 #: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
 msgid "as"
-msgstr ""
+msgstr "comme"
 
 #: ../../NetDriveUI/adddrive.ui:386
 msgctxt "AddDrive|"
 msgid "AUTO CONNECT OPTIONS"
-msgstr ""
+msgstr "OPTIONS DE CONNEXION AUTO"
 
 #: ../../NetDriveUI/adddrive.ui:392
 msgctxt "AddDrive|"
 msgid "No automatic mount"
-msgstr ""
+msgstr "Pas de montage automatique"
 
 #: ../../NetDriveUI/adddrive.ui:405
 msgctxt "AddDrive|"
 msgid "Mount on boot"
-msgstr ""
+msgstr "Monter au démarrage"
 
 #: ../../NetDriveUI/adddrive.ui:412
 msgctxt "AddDrive|"
 msgid "Mount on login"
-msgstr ""
+msgstr "Monter à la connexion"
 
 #: ../../NetDriveUI/adddrive.ui:422
 msgctxt "AddDrive|"
 msgid "UPLOAD OPTIONS"
-msgstr ""
+msgstr "OPTIONS DE TÉLÉVERSEMENT"
 
 #: ../../NetDriveUI/adddrive.ui:428
 msgctxt "AddDrive|"
 msgid "Use on-the-fly uploading in Explorer"
-msgstr ""
+msgstr "Utiluser le téléversement rapide dans Explorer"
 
 #: ../../NetDriveUI/adddrive.ui:438
 msgctxt "AddDrive|"
 msgid "Use background uploading"
-msgstr ""
+msgstr "Utiliser le téléversement en arrière-plan"
 
 #: ../../NetDriveUI/adddrive.ui:451
 msgctxt "AddDrive|"
 msgid "READ ONLY OPTIONS"
-msgstr ""
+msgstr "OPTIONS LECTURE SEUL"
 
 #: ../../NetDriveUI/adddrive.ui:457
 msgctxt "AddDrive|"
 msgid "Writable drive"
-msgstr ""
+msgstr "Lecteur en écriture"
 
 #: ../../NetDriveUI/adddrive.ui:467
 msgctxt "AddDrive|"
 msgid "Read only drive"
-msgstr ""
+msgstr "Lecteur en lecture seul"
 
 #: ../../NetDriveUI/adddrive.ui:477
 msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
-msgstr ""
+msgstr "OPTIONS AVANCÉES"
 
 #: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
 msgid "Always retrieve file list from server"
-msgstr ""
+msgstr "Toujours récupérer la liste du serveur"
 
 #: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
 msgid "As a removable drive"
-msgstr ""
+msgstr "Comme lecteur amovible"
 
 #: ../../NetDriveUI/adddrive.ui:497
 msgctxt "AddDrive|"
 msgid "Treat files and folders starting with a dot as hidden"
-msgstr ""
+msgstr "Traiter fichier et dossiers débutant avec un point comme caché"
 
 #: ../../NetDriveUI/adddrive.ui:504
 msgctxt "AddDrive|"
 msgid "Use static filesystem(Experimental)"
-msgstr ""
+msgstr "Utiliser système de fichier statique (Expérimentale)"
 
 #: ../../NetDriveUI/adddrive.cpp:151
 msgctxt "AddDrive|"
 msgid "COLOR"
-msgstr ""
+msgstr "COULEUR"
 
 #: ../../NetDriveUI/adddrive.cpp:191
 msgctxt "AddDrive|"
 msgid "network drive"
-msgstr ""
+msgstr "lecteur réseau"
 
 #: ../../NetDriveUI/adddrive.cpp:192
 msgctxt "AddDrive|"
 msgid "local drive"
-msgstr ""
+msgstr "lecteur local"
 
 #: ../../NetDriveUI/adddrive.cpp:640
 msgctxt "AddDrive|"
